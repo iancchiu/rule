@@ -34,7 +34,7 @@ ruleset=♾️ 彩票中心,[]FINAL
 ;设置规则标志位
 
 ;设置分组标志位
-custom_proxy_group=📡 节点选择`select`[]HK`[]SG`[]JP`[]US`[]TW`[]DIRECT`.*,img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Quantumult_X.png
+custom_proxy_group=📡 节点选择`select`[]HK`[]SG`[]JP`[]US`[]TW`[]DIRECT`.*,img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Speedtest.png
 custom_proxy_group=🍎 Apple`select`[]DIRECT`[]📡 节点选择`[]HK`[]SG`[]JP`[]US`[]TW,img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Apple_1.png
 custom_proxy_group=🌏 微软服务`select`[]DIRECT`[]📡 节点选择,img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Microsoft.png
 custom_proxy_group=📲 电报吹水`select`[]📡 节点选择`[]HK`[]SG,img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Telegram.png
@@ -42,7 +42,7 @@ custom_proxy_group=📺 国内媒体`select`[]DIRECT`[]📡 节点选择`[]HK`[]
 custom_proxy_group=🎬 国外媒体`select`[]📡 节点选择`[]DIRECT`[]HK`[]SG`[]JP`[]US`[]TW,img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Netflix.png
 custom_proxy_group=💳 PayPal`select`[]DIRECT`[]HK`[]US,img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/PayPal.png
 custom_proxy_group=🐇 国内访问`select`[]DIRECT`[]📡 节点选择,img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Dark/China_Telecom.png
-custom_proxy_group=♾️ 彩票中心`select`[]DIRECT`[]📡 节点选择,img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Global.png
+custom_proxy_group=♾️ 彩票中心`select`[]DIRECT`[]📡 节点选择,img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Final.png
 custom_proxy_group=HK`select`港|🇭🇰|Hong Kong
 custom_proxy_group=SG`select`新加坡|狮城|🇸🇬|Singapore
 custom_proxy_group=TW`select`台|Taiwan
