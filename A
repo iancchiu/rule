@@ -48,4 +48,11 @@ custom_proxy_group=SG`select`新加坡|狮城|🇸🇬|Singapore
 custom_proxy_group=TW`select`台|Taiwan
 custom_proxy_group=JP`select`日|🇯🇵|Japan
 custom_proxy_group=US`select`美|🇺🇸|United States
+custom_proxy_group=DE`select`德|🇩🇪|Germany
+custom_proxy_group=GB`select`英|🇬🇧|United Kingd
+custom_proxy_group=KR`select`韩|🇰🇷|South Korea
+custom_proxy_group=FR`select`法|🇫🇷|France
+custom_proxy_group=NL`select`荷兰|🇳🇱|Netherlands
+custom_proxy_group=IN`select`印度|🇮🇳|India
+custom_proxy_group=TR`select`土耳其|🇹🇷|Türkiye
 ;设置分组标志位
