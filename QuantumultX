@@ -49,3 +49,6 @@ custom_proxy_group=NL`select`荷兰|🇳🇱|Netherlands
 custom_proxy_group=IN`select`印度|🇮🇳|India
 custom_proxy_group=TR`select`土耳其|🇹🇷|Türkiye
 ;设置分组标志位
+
+enable_rule_generator=true
+overwrite_original_rules=true
