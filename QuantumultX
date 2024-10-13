@@ -16,7 +16,7 @@ ruleset=🍎 Apple,https://raw.githubusercontent.com/blackmatrix7/ios_rule_scrip
 ruleset=🌏 微软服务,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Microsoft/Microsoft.list
 ruleset=📲 电报吹水,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Telegram/Telegram.list
 ;BiliBili
-ruleset=📺 国内媒体,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/QuantumultX/BiliBili/BiliBili.list
+ruleset=📺 国内媒体,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/QuantumultX/ChinaMedia/ChinaMedia.list
 ;iQIYI
 ruleset=📺 国内媒体,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/iQIYI/iQIYI.list
 ruleset=📡 节点选择,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Proxy/Proxy.list
